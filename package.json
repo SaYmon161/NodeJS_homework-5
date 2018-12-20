@@ -1,0 +1,34 @@
+{
+  "name": "loft-homework-5",
+  "version": "1.0.0",
+  "description": "Большая домашняя работа курса по Node.js - Корпоративная система _\"LoftSystem\"_.",
+  "main": "app.js",
+  "dependencies": {
+    "bcrypt": "^3.0.2",
+    "connect-mongo": "^2.0.3",
+    "koa": "^2.6.2",
+    "koa-body": "^4.0.4",
+    "koa-router": "^7.4.0",
+    "koa-session": "^5.10.1",
+    "koa-session-mongoose": "^2.0.5",
+    "koa-static": "^5.0.0",
+    "mongoose": "^5.4.0",
+    "passport": "^0.4.0",
+    "passport-local": "^1.0.0",
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaYmon161/NodeJS_homework-5.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SaYmon161/NodeJS_homework-5/issues"
+  },
+  "homepage": "https://github.com/SaYmon161/NodeJS_homework-5#readme"
+}
